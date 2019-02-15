@@ -2,7 +2,7 @@
 
 reader_running = True
 
-while reader_running
+while reader_running:
 	print("scan card now or type quit")
 
 	card_no = input(": ")
